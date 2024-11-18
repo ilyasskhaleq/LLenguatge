@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rural Rooms</title>
+    <link rel="stylesheet" href="estils.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <header>
+        <div id="logo">
+            <img src="img/RRLogo.png" alt="Rural Rooms Logo"> 
+        </div>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="precios.html">Precios</a>
+            <a href="reserva.html">Reserva</a>
+        </nav>
+    </header>
+    
+    <main>
+        <h3>Rural Rooms: Característiques i Preus</h3>
+        <table>
+            <thead>
+                <tr class="fondo">
+                    <th>Tipus d'Habitació</th>
+                    <th>Persones</th>
+                    <th>Característiques</th>
+                    <th>Preu</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Habitació individual</td>
+                    <td>
+                    <span class="person-icon"><img src="img/individual.png"></span>
+                    </td>
+                    <td>Compartit, 20m², Microones</td>
+                    <td>70 €</td>
+                </tr>
+                <tr>
+                    <td>Habitació doble (1 o 2 llits)</td>
+                    <td rowspan="1"> 
+                        <table class="nested-table"> 
+                            <tr><td><span class="person-icon"><img src="img/doble.png" alt="Individual"></span></td></tr> 
+                            <tr><td><span class="person-icon"><img src="img/individual.png" alt="Doble"></span></td></tr> 
+                        </table>
+                    </td>
+                    <td>Privat, 30m², Microones</td>
+                    <td rowspan="1"> 
+                        <table class="nested-table1"> 
+                            <tr><td>120€</td></tr> 
+                            <tr><td>90€</td></tr> 
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Habitació doble superior</td>
+                    <td><span class="person-icon"><img src="img/doble.png"></span></td>
+                    <td>Privat, 35m², Zona de cuina, Llits dobles</td>
+                    <td>140 € / 150 €</td>
+                </tr>
+                <tr>
+                    <td>Habitació triple (1, 2 o 3 llits)</td>
+                    <td rowspan="1"> 
+                        <table class="nested-table"> 
+                            <tr><td><span class="person-icon"><img src="img/triple.png"></span></td></tr> 
+                            <tr><td><span class="person-icon"><img src="img/doble.png"></span></td></tr> 
+                            <tr><td><span class="person-icon"><img src="img/individual.png"></span></td></tr>
+                        </table>
+                    </td>
+                    <td>Privat, 40m², Zona de cuina</td>
+                    <td rowspan="1"> 
+                        <table class="nested-table1"> 
+                            <tr><td>150€</td></tr> 
+                            <tr><td>130€</td></tr> 
+                            <tr><td>100€</td></tr> 
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="blau-mari">
+                    <td colspan="4" class="caracteristicas-comunes">
+                        Característiques comunes: WiFi gratuït, TV de pantalla plana, Aire condicionat
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </main>
+    
+    <footer>
+        <p>Actividad realizada por <span>Ilyass Khaleq</span></p>
+        <p>Fotografías de la portada <a href="https://unsplash.com">Unsplash</a> <img src="img/creative-commons.jpg" alt="Creative Commons"> </p>
+    </footer>
+</body>
+</html>
