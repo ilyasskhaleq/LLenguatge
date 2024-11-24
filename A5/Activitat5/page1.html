@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Nom Autor">
+    <meta name="keywords" content="Galeria, fotos, Ilyass Khaleq">
+    <meta name="description" content="Galeria de fotos d'Ilyass Khaleq.">
+    <title>Galeria - Ilyass Khaleq</title>
+    <link rel="stylesheet" href="css/estils.css">
+    <script src="components/script.js" defer></script>
+</head>
+<body>
+    <header>
+        
+        <div class="logo-esquerra">
+            <img src="img/logo1.png" alt="Logo esquerra">
+        </div>
+        <h1>Ilyass Khaleq - CF La Sènia</h1>
+    
+        <nav>
+            <ul>
+                <li><a href="index.html">Inici</a></li>
+                <li><a href="page1.html">Galeria</a></li>
+                <li><a href="page2.html">Contacte</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Galeria</h2>
+        <div class="galeria">
+            <!-- Imatges interactives -->
+            <img src="img/img1.jpeg" onclick="mostrarImatge(this)" alt="Foto 1" class="imatge-petita">
+            <img src="img/img2.jpeg" onclick="mostrarImatge(this)" alt="Foto 2" class="imatge-petita">
+            <img src="img/img3.jpeg" onclick="mostrarImatge(this)" alt="Foto 3" class="imatge-petita">
+            <img src="img/img4.jpeg" onclick="mostrarImatge(this)" alt="Foto 4" class="imatge-petita">
+            <img src="img/img5.jpeg" onclick="mostrarImatge(this)" alt="Foto 5" class="imatge-petita">
+            <img src="img/img6.jpeg" onclick="mostrarImatge(this)" alt="Foto 6" class="imatge-petita">
+        </div>
+        <!-- Àrea on es mostra la imatge gran -->
+        <div class="imatge-gran-container" id="imatge-gran-container">
+            <img id="imatge-gran" alt="Foto gran">
+        </div>
+
+    <footer>
+        <p>&copy; 2024 Ilyass Khaleq Fanpage</p>
+    </footer>
+</body>
+</html>
+
