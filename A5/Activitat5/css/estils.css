@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex; /* Utilitzem flexbox per a l'alineació */
+    align-items: center; /* Centrem verticalment el contingut */
+    justify-content: space-between; /* Alinea els elements a l'esquerra i dreta */
+    background-color: #0400ff; /* Fons blau */
+    color: rgb(245, 220, 0); /* Color de text groc */
+    padding: 10px 20px; /* Espai dins del header */
+}
+
+header h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    flex-grow: 1; /* Fa que el títol ocupi l'espai central */
+    margin: 0; /* Elimina marges per evitar espais extra */
+}
+
+header .logo-esquerra img {
+    width: 50px; /* Amplada del logo */
+    height: auto; /* Manté la proporció */
+}
+
+header .logo-esquerra {
+    display: flex;
+    align-items: center; /* Centra les imatges verticalment */
+    justify-content: center; /* Centra les imatges horitzontalment */
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Contenidor de la galeria */
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.imatge-petita {
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+    transition: 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.imatge-petita:hover {
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+.imatge-gran-container {
+    text-align: center;
+    margin-top: 20px;
+    display: none; /* Inicialment no es mostra */
+}
+
+.imatge-gran-container img {
+    width: 400px;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+.seccio-interactiva {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #f4f4f4;
+    color: #333;
+    border: 1px solid #ddd;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.seccio-interactiva:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.text-ocult {
+    display: none;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.seccio-interactiva:hover .text-ocult {
+    display: block;
+}
+.seccio-dinamica {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: background-color 0.3s, color 0.3s;
+    text-align: center;
+    margin: 20px;
+}
+
+.seccio-dinamica:hover {
+    background-color: #0400ff;
+    color: #fff;
+}
+
+/* Párrafo oculto */
+.text-ocult {
+    display: none;
+    margin-top: 10px;
+}
+
+.seccio-dinamica:hover .text-ocult {
+    display: block;
+}
