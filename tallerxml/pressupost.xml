@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pressupostos>
+    <pressupost id="1">
+        <client>Client</client>
+        <components>
+            <component tipus="placa_base">
+                <nom>ASUS ROG Strix B550-F</nom>
+                <preu>200€</preu>
+            </component>
+            <component tipus="processador">
+                <nom>AMD Ryzen 5 5600X</nom>
+                <preu>280€</preu>
+            </component>
+            <component tipus="memoria_RAM">
+                <nom>Corsair Vengeance LPX 16GB (2 x 8GB)</nom>
+                <preu>90€</preu>
+            </component>
+            <component tipus="disc_dur">
+                <nom>Samsung 970 EVO Plus 1TB</nom>
+                <preu>120€</preu>
+            </component>
+            <component tipus="targeta_grafica">
+                <nom>NVIDIA GeForce RTX 3060</nom>
+                <preu>400€</preu>
+            </component>
+            <component tipus="targeta_so">
+                <nom>Creative Sound Blaster Z</nom>
+                <preu>90€</preu>
+            </component>
+        </components>
+        <total>1180€</total>
+    </pressupost>
+    <pressupost id="2">
+        <client>Client</client>
+        <components>
+            <component tipus="placa_base">
+                <nom>MSI MPG Z690 Carbon WiFi</nom>
+                <preu>320€</preu>
+            </component>
+            <component tipus="processador">
+                <nom>Intel Core i7-13700K</nom>
+                <preu>410€</preu>
+            </component>
+            <component tipus="memoria_RAM">
+                <nom>G.Skill Trident Z5 RGB 32GB (2 x 16GB)</nom>
+                <preu>200€</preu>
+            </component>
+            <component tipus="disc_dur">
+                <nom>WD Black SN850X 2TB</nom>
+                <preu>250€</preu>
+            </component>
+            <component tipus="targeta_grafica">
+                <nom>AMD Radeon RX 6800 XT</nom>
+                <preu>600€</preu>
+            </component>
+            <component tipus="targeta_so">
+                <nom>ASUS Xonar AE</nom>
+                <preu>80€</preu>
+            </component>
+        </components>
+        <total>1860€</total>
+    </pressupost>
+</pressupostos>

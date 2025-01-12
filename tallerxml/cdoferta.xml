@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<oferta>
+    <cd>
+        <artista>Bon Jovi</artista>
+        <titol>Slippery When Wet</titol>
+        <any>1986</any>
+        <genere>Rock</genere>
+    </cd>
+    <cd>
+        <artista>Queen</artista>
+        <titol>A Night at the Opera</titol>
+        <any>1975</any>
+        <genere>Rock</genere>
+    </cd>
+    <cd>
+        <artista>Michael Jackson</artista>
+        <titol>Thriller</titol>
+        <any>1982</any>
+        <genere>Pop</genere>
+    </cd>
+</oferta>
