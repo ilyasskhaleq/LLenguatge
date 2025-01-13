@@ -1,0 +1,122 @@
+{
+    "futbol": {
+        "jornada": [
+            {
+                "-numero": "1",
+                "partit": [
+                    {
+                        "equip_local": "R. Sociedad",
+                        "equip_visitant": "Getafe",
+                        "resultat": "2-0",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Malaga",
+                        "equip_visitant": "Valencia",
+                        "resultat": "1-1",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "FC Barcelona",
+                        "equip_visitant": "Sevilla",
+                        "resultat": "4-2",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Betis",
+                        "equip_visitant": "Espanyol",
+                        "resultat": "3-2",
+                        "estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "2",
+                "partit": [
+                    {
+                        "equip_local": "Rayo",
+                        "equip_visitant": "Almeria",
+                        "resultat": "2-1",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Levante",
+                        "equip_visitant": "Osasuna",
+                        "resultat": "1-2",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Villarreal",
+                        "equip_visitant": "Valladolid",
+                        "resultat": "2-0",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "R. Sociedad",
+                        "equip_visitant": "Elche",
+                        "resultat": "1-1",
+                        "estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "3",
+                "partit": [
+                    {
+                        "equip_local": "Rayo",
+                        "equip_visitant": "Elche",
+                        "resultat": "2-2",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Celta",
+                        "equip_visitant": "Granada",
+                        "resultat": "1-0",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Osasuna",
+                        "equip_visitant": "Villarreal",
+                        "resultat": "2-3",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Espanyol",
+                        "equip_visitant": "Betis",
+                        "resultat": "0-2",
+                        "estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "4",
+                "partit": [
+                    {
+                        "equip_local": "Atlético",
+                        "equip_visitant": "Almeria",
+                        "resultat": "4-2",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "FC Barcelona",
+                        "equip_visitant": "Sevilla",
+                        "resultat": "1-1",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Granada",
+                        "equip_visitant": "Malaga",
+                        "resultat": "0-0",
+                        "estat": "finalitzat"
+                    },
+                    {
+                        "equip_local": "Betis",
+                        "equip_visitant": "Rayo",
+                        "resultat": "2-3",
+                        "estat": "finalitzat"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "oferta": {
+        "cd": [
+            {
+                "artista": "Bon Jovi",
+                "titol": "Slippery When Wet",
+                "any": "1986",
+                "genere": "Rock"
+            },
+            {
+                "artista": "Queen",
+                "titol": "A Night at the Opera",
+                "any": "1975",
+                "genere": "Rock"
+            },
+            {
+                "artista": "Michael Jackson",
+                "titol": "Thriller",
+                "any": "1982",
+                "genere": "Pop"
+            }
+        ]
+    }
+}

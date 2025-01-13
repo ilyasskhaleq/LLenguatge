@@ -1,0 +1,84 @@
+{
+    "pressupostos": {
+        "pressupost": [
+            {
+                "-id": "1",
+                "client": "Client",
+                "components": {
+                    "component": [
+                        {
+                            "-tipus": "placa_base",
+                            "nom": "ASUS ROG Strix B550-F",
+                            "preu": "200€"
+                        },
+                        {
+                            "-tipus": "processador",
+                            "nom": "AMD Ryzen 5 5600X",
+                            "preu": "280€"
+                        },
+                        {
+                            "-tipus": "memoria_RAM",
+                            "nom": "Corsair Vengeance LPX 16GB (2 x 8GB)",
+                            "preu": "90€"
+                        },
+                        {
+                            "-tipus": "disc_dur",
+                            "nom": "Samsung 970 EVO Plus 1TB",
+                            "preu": "120€"
+                        },
+                        {
+                            "-tipus": "targeta_grafica",
+                            "nom": "NVIDIA GeForce RTX 3060",
+                            "preu": "400€"
+                        },
+                        {
+                            "-tipus": "targeta_so",
+                            "nom": "Creative Sound Blaster Z",
+                            "preu": "90€"
+                        }
+                    ]
+                },
+                "total": "1180€"
+            },
+            {
+                "-id": "2",
+                "client": "Client",
+                "components": {
+                    "component": [
+                        {
+                            "-tipus": "placa_base",
+                            "nom": "MSI MPG Z690 Carbon WiFi",
+                            "preu": "320€"
+                        },
+                        {
+                            "-tipus": "processador",
+                            "nom": "Intel Core i7-13700K",
+                            "preu": "410€"
+                        },
+                        {
+                            "-tipus": "memoria_RAM",
+                            "nom": "G.Skill Trident Z5 RGB 32GB (2 x 16GB)",
+                            "preu": "200€"
+                        },
+                        {
+                            "-tipus": "disc_dur",
+                            "nom": "WD Black SN850X 2TB",
+                            "preu": "250€"
+                        },
+                        {
+                            "-tipus": "targeta_grafica",
+                            "nom": "AMD Radeon RX 6800 XT",
+                            "preu": "600€"
+                        },
+                        {
+                            "-tipus": "targeta_so",
+                            "nom": "ASUS Xonar AE",
+                            "preu": "80€"
+                        }
+                    ]
+                },
+                "total": "1860€"
+            }
+        ]
+    }
+}

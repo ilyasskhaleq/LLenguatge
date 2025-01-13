@@ -1,0 +1,130 @@
+{
+    "receptes": {
+        "recepta": [
+            {
+                "nom": "Pastís de xocolata",
+                "ingredients": {
+                    "ingredient": [
+                        "6 rovells d'ou",
+                        "6 clares",
+                        "150 g de sucre",
+                        "200 g de xocolata negra de cobertura",
+                        "50 g de mantega",
+                        "farina",
+                        "nata muntada",
+                        "cacau en pols"
+                    ]
+                },
+                "preparacio": {
+                    "pas": [
+                        "Per començar, barregeu els rovells d'ou amb el sucre en un bol.",
+                        "Mentrestant, foneu la cobertura de xocolata al bany maria.",
+                        "Quan la xocolata s'hagi desfet, afegiu-hi la mantega i remeneu-ho.",
+                        "A continuació, barregeu la xocolata, els rovells i les clares muntades.",
+                        "Remeneu-ho i poseu-ho en un motlle per al forn.",
+                        "Deixeu-ho coure al forn a 180 graus durant 30 minuts.",
+                        "Després, deixeu refredar el pastís, desmotlleu-lo i emplateu-lo.",
+                        "Per acabar, decoreu-lo amb nata muntada i cacau en pols."
+                    ]
+                },
+                "notes_complementaries": "Recepta del programa de TV3 Cuines, del restaurant Les Peixines.",
+                "autor": {
+                    "nom": [
+                        "Bàrbara Casanovas",
+                        "Adrià Ruscadella"
+                    ]
+                },
+                "etiquetes": {
+                    "etiqueta": [
+                        "Postre",
+                        "Dolç",
+                        "Forn",
+                        "Aniversari",
+                        "Fàcil",
+                        "Econòmic"
+                    ]
+                },
+                "imatge": "pastis_xocolata.jpg"
+            },
+            {
+                "nom": "Volcà de xocolata",
+                "ingredients": {
+                    "ingredient": [
+                        "4 ous",
+                        "4 rovells",
+                        "80 g de sucre",
+                        "220 g de xocolata",
+                        "60 g de farina"
+                    ]
+                },
+                "preparacio": {
+                    "pas": [
+                        "Foneu al bany maria la xocolata i la mantega. Un cop fora del foc.",
+                        "Munteeu les clares, afegint-hi el sucre, quan comencin a agafar cos.",
+                        "Barregeu la meitat de les clares muntades amb la xocolata. Incorporeu-hi la farina i la resta de les clares.",
+                        "Pinteu motlles individuals amb mantega i farina, farciu-los amb la pasta fins a la meitat i disposeu al centre un dau de xocolata. Acabeu de farcir una mica més els motlles per a amagar el dau de xocolata.",
+                        "Coeu a 220° (forn només amb escalfor de baix) durant uns 10 minuts aproximadament.",
+                        "Servir calent, empolvorat de sucre llustre i acompanyat d'una salseta o de gelat."
+                    ]
+                },
+                "autor": {
+                    "nom": "Anna"
+                },
+                "etiquetes": {
+                    "etiqueta": [
+                        "Postre",
+                        "Dolços",
+                        "Festa",
+                        "Fàcil",
+                        "Econòmic",
+                        "Catalana"
+                    ]
+                },
+                "temps_preparacio": "30 minuts",
+                "cost": "15 €",
+                "calories": "220 calories"
+            },
+            {
+                "nom": "Pastís de formatge",
+                "ingredients": {
+                    "ingredient": [
+                        "2 terrines de formatge Philadelphia (200-300g)",
+                        "3 ous",
+                        "3 iogurts naturals",
+                        "3 cullerades (grans) de farina",
+                        "10-12 galetes",
+                        "3 cullerades (petites) de sucre",
+                        "1 panell de galetes Maria o Chiquilin"
+                    ]
+                },
+                "preparacio": {
+                    "pas": [
+                        "El primer que hem de fer és escalfar el forn a 200 graus.",
+                        "Buidem les terrines de Philadelphia en un bol i remenem bé el formatge.",
+                        "Afegim els 3 ous, els afegim i es remenen amb el formatge.",
+                        "Ara afegim els 3 iogurts naturals a la barreja i tornem a remenar.",
+                        "Quan tinguem una pasta homogènia, hi posem la farina i el sucre i ho remenem tot fins que no quedin grumolls.",
+                        "Preparem el motlle untant-lo bé amb mantega. Triturem les galetes i les repartim per tota la base del motlle.",
+                        "Seguidament, hi evoquem la barreja que tenim ja preparada.",
+                        "Baixem el forn a 170° i hi col·loquem el pastís.",
+                        "Esperem uns 20 o 30 minuts. Com que la cocció depèn de la potència del forn, la millor manera per saber si el pastís està fet és punxar-lo pel mig amb algun instrument en forma de punxa, o una escuradents: quan surti net vol dir que ja tenim el pastís delissat.",
+                        "El deixem refredar i el retirem del motlle.",
+                        "Si el podem menjar sol o bé afegir-li una capa molt fina de melmelada de maduixa o gerds.",
+                        "Ja veureu quina delícia!!!"
+                    ]
+                },
+                "notes_complementaries": "Una delícia pels més formatgers!!!",
+                "autor": {
+                    "nom": "Eulàlia"
+                },
+                "etiquetes": {
+                    "etiqueta": [
+                        "Postre",
+                        "Fàcil",
+                        "Econòmic"
+                    ]
+                }
+            }
+        ]
+    }
+}
