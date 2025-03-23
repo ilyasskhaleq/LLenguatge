@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: cyan;
+}
+.assignatura {
+    width: 300px;
+    margin-bottom: 20px;
+}
+h1 {
+    color: darkgreen;
+}
+.nota {
+    font-weight: bold;
+}
+h2 {
+    color: darkgreen;
+}
+.nom {
+    padding: 15px;
+    color: red;
+}
